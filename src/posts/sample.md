@@ -7,3 +7,5 @@ tags:
   - created
 ---
 It was the best of times, it was the worst of times. He had a **lager** drink, he had a cider drink.
+
+![The new house](/static/img/image-from-ios.jpg "The new house")
